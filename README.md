@@ -11,5 +11,3 @@ If you have previously loaded in this data, you can wipe your database 100% clea
 ```bash
 npm run blowitallaway
 ```
-
-That will populate 16 stores with 3 authors and 41 reviews.
